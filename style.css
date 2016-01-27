@@ -1,0 +1,16 @@
+.name {
+	height: 200px;
+	width: 500px;
+	background-color: #ffcccc;
+	font-style: shadow;
+	margin: auto;
+	text-align: center;
+}
+.subtitle {
+	height: 100px;
+	width: 100%;
+	background-color: #ffe5e5;
+	font-style: shadow;
+	margin: auto;
+	text-align: center;
+}
